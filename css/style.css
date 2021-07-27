@@ -12,7 +12,7 @@ body{
 
 .wave{
 	position: fixed;
-	bottom: 0;
+  bottom: 10 px;
 	left: 0;
 	height: 100%;
 	z-index: -1;
@@ -24,7 +24,7 @@ body{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap :7rem;
-    padding: 0 2rem;
+    padding: 0 5rem;
 }
 
 .img{
